@@ -1,5 +1,6 @@
 # This is a readme in heading1
 ## First we will test bold
+**command shift v for preview**
 
 **modifications**
 
