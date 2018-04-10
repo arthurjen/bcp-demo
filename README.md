@@ -4,13 +4,28 @@
 **modifications**
 
 ### Next we will test Italics
-_spaghetti_
+_italics_
 
 * one
 * two
 * three
+    * test
+        * test
 
 1. bullet
-2. bullet
-3. bullet
+2. * 2. * bullet
+3. _bullet_
 
+```html
+<p>whoa this is trippy</p>
+```
+
+```python
+add 5 + 2
+```
+
+```js
+var test = function() {
+
+};
+```
